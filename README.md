@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="SELF-HX" width="300" />
+![20220402_013132](https://user-images.githubusercontent.com/92458761/161432892-216b89c9-2e28-46d5-a2c6-c4561a3fc23b.jpg)
+
 
 # XUZYNRI MD
 
