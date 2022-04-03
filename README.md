@@ -17,15 +17,15 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
+> git clone https://github.com/frostkri/xuzynri-md
+> cd xuzynri-md
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
+> git clone https://github.com/forstkri/xuzynri-md
+> cd xuzynri-md
 > npm i
 > npm start/node main.js
 ```
@@ -36,7 +36,7 @@
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
-# PIMTUR
+# PITUR YANG TERSEDIA
 
 | OWNER |✅|
 | ------------- | ------------- |
